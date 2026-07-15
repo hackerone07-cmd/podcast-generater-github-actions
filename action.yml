@@ -1,4 +1,4 @@
-name: "Podcast Generator workflow"
+name: "Github Action Podcast Generator workflow-1"
 author: "Ray Villalobos"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
